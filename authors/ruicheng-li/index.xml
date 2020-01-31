@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruicheng Li | Minghan Li</title>
+    <link>https://alexlimh.github.io/authors/ruicheng-li/</link>
+      <atom:link href="https://alexlimh.github.io/authors/ruicheng-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruicheng Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ruicheng Li</title>
+      <link>https://alexlimh.github.io/authors/ruicheng-li/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating Large Scale Knowledge Distillation via Dynamic Importance Sampling</title>
+      <link>https://alexlimh.github.io/publication/distillation/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://alexlimh.github.io/publication/distillation/</guid>
+      <description>&lt;!-- In *International Conference on Multimedia Information Processing and Retrieval*, 2019.  --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
