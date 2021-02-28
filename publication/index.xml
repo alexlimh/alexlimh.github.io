@@ -5,12 +5,21 @@
     <link>https://alexlimh.github.io/publication/</link>
       <atom:link href="https://alexlimh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://alexlimh.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Latte-Mix: Measuring Sentence Semantic Similarity with Latent Categorical Mixtures</title>
+      <link>https://alexlimh.github.io/publication/pwa/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://alexlimh.github.io/publication/pwa/</guid>
+      <description>&lt;!-- In *International Conference on Multimedia Information Processing and Retrieval*, 2019.  --&gt;
+</description>
+    </item>
     
     <item>
       <title>Accelerating Large Scale Knowledge Distillation via Dynamic Importance Sampling</title>
