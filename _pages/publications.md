@@ -63,7 +63,7 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.\\
 https://aclanthology.org/2021.findings-emnlp.26/) / [\[Code\]](https://github.com/alexlimh/DPR_MUF)
 
 - **Another Look at DPR: Reproduction of Training and Replication of Retrieval**\\
-Xueguang Ma, Kai Sun, Ronak Pradeep, **Minghan Li**, Jimmy Lin
+Xueguang Ma, Kai Sun, Ronak Pradeep, **Minghan Li**, Jimmy Lin\\
 Conference on European Conference on Information Retrieval (ECIR), 2022.\\
 [\[Paper\]](	
 https://dl.acm.org/doi/abs/10.1007/978-3-030-99736-6_41) / [\[Code\]](https://github.com/castorini/pyserini/blob/master/docs/experiments-dpr.md)
