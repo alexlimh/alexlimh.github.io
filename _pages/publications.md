@@ -22,7 +22,7 @@ Preprint abs/2302.07452, 2023.        \\
 - **CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval**  
 **Minghan Li**\*, Sheng-Chieh Lin, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen\*         
 Association for Computational Linguistics (ACL), 2023 (upcoming).   \\
-[\[Paper\]](https://arxiv.org/abs/2211.10411)
+[\[Paper\]](https://arxiv.org/abs/2211.10411) / [\[Code\]](https://github.com/facebookresearch/dpr-scale/tree/citadel)
 
 - **SLIM: Sparsified Late Interaction for Multi-Vector Retrieval with Inverted Indexes**\\
 **Minghan Li**, Sheng-Chieh Lin, Xueguang Ma, Jimmy Lin\\
