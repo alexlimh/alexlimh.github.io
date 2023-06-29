@@ -31,8 +31,8 @@ International ACM SIGIR Conference on Research and Development in Information Re
 
 - **Aggretriever: A Simple Approach to Aggregate Textual Representation for Robust Dense Passage Retrieval**  
 Sheng-Chieh Lin, **Minghan Li**, Jimmy Lin           
-Transactions of the Association for Computational Linguistics (TACL), 2023 (upcoming).   
-[\[Paper\]](https://arxiv.org/abs/2208.00511) / [\[Code\]](https://github.com/castorini/dhr)     
+Transactions of the Association for Computational Linguistics (TACL), 2023.   
+[\[Paper\]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00556/116046/Aggretriever-A-Simple-Approach-to-Aggregate) / [\[Code\]](https://github.com/castorini/dhr)     
 
 ## 2022
 - **Certified Error Control of Candidate Set Pruning for Two-Stage Relevance Ranking**\\
