@@ -14,6 +14,9 @@ I am interested in building efficient, scalable, and robust neural models for in
 
 News
 =====
+- 2023-10-09: New paper alert! Our paper [How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval](https://arxiv.org/abs/2302.07452) has been accepted to EMNLP 2023! Check out this super robust and easy-to-use dense retriever [here](https://github.com/facebookresearch/dpr-scale) and try it out yourself!
+- 2023-09-18: I start my internship at Meta FAIR Lab as a Research Scientist intern hosted by [Victoria Lin](http://victorialin.net/).
+- 2023-08-22: I'm awarded with the Waterloo Apple PhD Fellowship in Data Science and Machine Learning.
 - 2023-06-22: I start my internship at Google Research as a Student Researcher under the supervision of [Honglei Zhuang](https://hongleizhuang.github.io/)
 - 2023-05-02: Our paper [CITADEL](https://arxiv.org/abs/2211.10411) is accepted in ACL 2023! Check out this efficient multi-vector retriever which i about 40x faster than ColBERT-v2 on GPUs. 
 - 2022-02-13: New paper is out! [SLIM](https://arxiv.org/pdf/2302.06587.pdf) manages to reduce the latency and storage of ColBERT while being fully compatible with Pyserini (Lucene-based). Codes will be released soon!

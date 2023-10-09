@@ -5,29 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
+<!-- ## Preprints -->
+<!-- 
 - **Improving Out-of-Distribution Generalization of Neural Rerankers with Contextualized Late Interaction**\\
 **Xinyu Zhang**\*, **Minghan Li**\*, Jimmy Lin\\
 Preprint abs/2302.06589, 2023.        \\
-[\[Paper\]](https://arxiv.org/abs/2302.06589)
-
-
-- **How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval**\\
-Sheng-Chieh Lin, Akari Asai, **Minghan Li**, Barlas Oguz, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen\\
-Preprint abs/2302.07452, 2023.        \\
-[\[Paper\]](https://arxiv.org/abs/2302.07452) / [\[Code\]](https://github.com/facebookresearch/dpr-scale)
-
+[\[Paper\]](https://arxiv.org/abs/2302.06589) -->
 
 ## 2023
+- **How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval**\\
+Sheng-Chieh Lin, Akari Asai, **Minghan Li**, Barlas Oguz, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen\\
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (upcoming).\\
+[\[Paper\]](https://arxiv.org/abs/2302.07452) / [\[Code\]](https://github.com/facebookresearch/dpr-scale)
+
 - **CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval**  
 **Minghan Li**\*, Sheng-Chieh Lin, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen\*         
 Association for Computational Linguistics (ACL), 2023 (upcoming).   \\
-[\[Paper\]](https://arxiv.org/abs/2211.10411) / [\[Code\]](https://github.com/facebookresearch/dpr-scale/tree/citadel)
+[\[Paper\]](https://aclanthology.org/2023.acl-long.663/) / [\[Code\]](https://github.com/facebookresearch/dpr-scale/tree/citadel)
 
 - **SLIM: Sparsified Late Interaction for Multi-Vector Retrieval with Inverted Indexes**\\
 **Minghan Li**, Sheng-Chieh Lin, Xueguang Ma, Jimmy Lin\\
-International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023 (upcoming). \\
-[\[Paper\]](https://arxiv.org/abs/2302.06587) / [\[Code\]](https://github.com/castorini/pyserini/blob/master/docs/experiments-slim.md)
+International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023. \\
+[\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3539618.3591977) / [\[Code\]](https://github.com/castorini/pyserini/blob/master/docs/experiments-slim.md)
 
 - **Aggretriever: A Simple Approach to Aggregate Textual Representation for Robust Dense Passage Retrieval**  
 Sheng-Chieh Lin, **Minghan Li**, Jimmy Lin           
