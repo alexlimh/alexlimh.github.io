@@ -7,20 +7,24 @@ author_profile: true
 
 <!-- ## Preprints -->
 <!-- 
-- **Improving Out-of-Distribution Generalization of Neural Rerankers with Contextualized Late Interaction**\\
+ -->
+
+## 2024
+- **CELI: Simple yet Effective Approach to Enhance Out-of-Domain Generalization of Cross-Encoders**\\
 **Xinyu Zhang**\*, **Minghan Li**\*, Jimmy Lin\\
+North American Chapter of the Association for Computational Linguistics (NAACL), 2024 (upcoming).\\
 Preprint abs/2302.06589, 2023.        \\
-[\[Paper\]](https://arxiv.org/abs/2302.06589) -->
+[\[Paper\]](https://arxiv.org/abs/2302.06589)
 
 ## 2023
 - **How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval**\\
 Sheng-Chieh Lin, Akari Asai, **Minghan Li**, Barlas Oguz, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen\\
-Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 (upcoming).\\
-[\[Paper\]](https://arxiv.org/abs/2302.07452) / [\[Code\]](https://github.com/facebookresearch/dpr-scale)
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.\\
+[\[Paper\]](https://aclanthology.org/2023.findings-emnlp.423/) / [\[Code\]](https://github.com/facebookresearch/dpr-scale)
 
 - **CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval**  
 **Minghan Li**\*, Sheng-Chieh Lin, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen\*         
-Association for Computational Linguistics (ACL), 2023 (upcoming).   \\
+Association for Computational Linguistics (ACL), 2023.   \\
 [\[Paper\]](https://aclanthology.org/2023.acl-long.663/) / [\[Code\]](https://github.com/facebookresearch/dpr-scale/tree/citadel)
 
 - **SLIM: Sparsified Late Interaction for Multi-Vector Retrieval with Inverted Indexes**\\
