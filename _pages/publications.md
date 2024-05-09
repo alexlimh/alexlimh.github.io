@@ -10,8 +10,15 @@ author_profile: true
  -->
 
 ## 2024
+- **Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers?**\\
+**Minghan Li**, Honglei Zhuang, Kai Hui, Zhen Qin, Jimmy Lin, Rolf Jagerman, Xuanhui Wang, Michael Bendersky\\
+The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024 (upcoming).\\
+Preprint abs/2311.09175, 2024.        \\
+[\[Paper\]](https://arxiv.org/abs/2311.09175)
+
+
 - **CELI: Simple yet Effective Approach to Enhance Out-of-Domain Generalization of Cross-Encoders**\\
-**Xinyu Zhang**\*, **Minghan Li**\*, Jimmy Lin\\
+Xinyu Zhang\*, **Minghan Li**\*, Jimmy Lin\\
 North American Chapter of the Association for Computational Linguistics (NAACL), 2024 (upcoming).\\
 Preprint abs/2302.06589, 2023.        \\
 [\[Paper\]](https://arxiv.org/abs/2302.06589)
