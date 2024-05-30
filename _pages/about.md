@@ -14,6 +14,7 @@ I am interested in building efficient, scalable, and robust neural models for in
 
 News
 =====
+- 2024-05-30: New paper alert! Check out our latest work [NEST](https://arxiv.org/pdf/2405.19325) on enchancing factuality and attribution of LLMs as well as discussions on [X](https://x.com/alexlimh23/status/1796195387700621754). 
 - 2023-10-09: New paper alert! Our paper [How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval](https://arxiv.org/abs/2302.07452) has been accepted to EMNLP 2023! Check out this super robust and easy-to-use dense retriever [here](https://github.com/facebookresearch/dpr-scale) and try it out yourself!
 - 2023-09-18: I start my internship at Meta FAIR Lab as a Research Scientist intern hosted by [Victoria Lin](http://victorialin.net/).
 - 2023-08-22: I'm awarded with the Waterloo Apple PhD Fellowship in Data Science and Machine Learning.
