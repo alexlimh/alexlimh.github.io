@@ -10,6 +10,11 @@ author_profile: true
  -->
 
 ## 2024
+- **Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**\\
+**Minghan Li**, Xilun Chen, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin\\
+Preprint abs/2405.19325, 2024.        \\
+[\[Paper\]](https://arxiv.org/abs/2405.19325)
+
 - **Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers?**\\
 **Minghan Li**, Honglei Zhuang, Kai Hui, Zhen Qin, Jimmy Lin, Rolf Jagerman, Xuanhui Wang, Michael Bendersky\\
 The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024 (upcoming).\\
