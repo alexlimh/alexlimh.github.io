@@ -10,6 +10,12 @@ author_profile: true
  -->
 
 ## 2024
+
+- **Unifying Multimodal Retrieval via Document Screenshot Embedding**\\
+Xueguang Ma, Sheng-Chieh Lin, **Minghan Li**, Wenhu Chen, Jimmy Lin\\
+Preprint abs/2406.11251, 2024.        \\
+[\[Paper\]](https://arxiv.org/abs/2406.11251)
+
 - **Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**\\
 **Minghan Li**, Xilun Chen, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin\\
 Preprint abs/2405.19325, 2024.        \\
