@@ -15,6 +15,7 @@ News
 - 2024-09-26: New paper alert! Our [NEST](https://arxiv.org/pdf/2405.19325) paper has been accepted to NeurIPS 2024! The OSS version will be released soon.
 - 2024-09-21: New paper alert! Our Document Screenshot Embedding [paper](https://arxiv.org/abs/2406.11251) has been accepted to EMNLP 2024. We directly encode document screenshots into vectors using visual-LLM for semantic search.
 - 2024-08-20: I join the search and embedding team at Cohere as a Member of Technical Staff!
+- 2024-08-07: I pass my Ph.D. defence from the University of Waterloo!
 - 2024-05-30: New paper alert! Check out our latest work [NEST](https://arxiv.org/pdf/2405.19325) on enchancing factuality and attribution of LLMs as well as discussions on [X](https://x.com/alexlimh23/status/1796195387700621754). 
 - 2023-10-09: New paper alert! Our paper [How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval](https://arxiv.org/abs/2302.07452) has been accepted to EMNLP 2023! Check out this super robust and easy-to-use dense retriever [here](https://github.com/facebookresearch/dpr-scale) and try it out yourself!
 - 2023-09-18: I start my internship at Meta FAIR Lab as a Research Scientist intern hosted by [Victoria Lin](http://victorialin.net/).
