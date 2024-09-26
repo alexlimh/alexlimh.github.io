@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a CS PhD student (3rd year) at Universtiy of Waterloo, supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html). Before that, I received my MSc in Computer Science from University of Toronto under the supervision of [Danijar Hafner](https://danijar.com/) and Professor [Jimmy Ba](https://jimmylba.github.io/). I completed my undergraduate study at Sun Yat-Sen University advised by Professor [Weishi Zheng](https://www.isee-ai.cn/~zhwshi/).  
-
-I am interested in building efficient, scalable, and robust neural models for information retrieval and its downstream applications. My research goal is to design task-aware retrievers to help large language models efficiently aggregate knowledge from large, unstructured databases. 
+I'm a Member of Technical Staff at Cohere, working on foundation models for embeddings and search. I obtained my Ph.D. from the University of Waterloo, supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html). Before that, I received my M.Sc. in Computer Science from University of Toronto under the supervision of [Danijar Hafner](https://danijar.com/) and Professor [Jimmy Ba](https://jimmylba.github.io/). I completed my undergraduate study at Sun Yat-Sen University advised by Professor [Weishi Zheng](https://www.isee-ai.cn/~zhwshi/).
 
 News
 =====
