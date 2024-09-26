@@ -13,26 +13,24 @@ author_profile: true
 
 - **Unifying Multimodal Retrieval via Document Screenshot Embedding**\\
 Xueguang Ma, Sheng-Chieh Lin, **Minghan Li**, Wenhu Chen, Jimmy Lin\\
-Preprint abs/2406.11251, 2024.        \\
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024 (upcoming).        \\
 [\[Paper\]](https://arxiv.org/abs/2406.11251)
 
 - **Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**\\
 **Minghan Li**, Xilun Chen, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin\\
-Preprint abs/2405.19325, 2024.        \\
+The 38th Annual Conference on Neural Information Processing Systems (NeurIPS), 2024 (upcoming).        \\
 [\[Paper\]](https://arxiv.org/abs/2405.19325)
 
 - **Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers?**\\
 **Minghan Li**, Honglei Zhuang, Kai Hui, Zhen Qin, Jimmy Lin, Rolf Jagerman, Xuanhui Wang, Michael Bendersky\\
-The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024 (upcoming).\\
-Preprint abs/2311.09175, 2024.        \\
-[\[Paper\]](https://arxiv.org/abs/2311.09175)
+The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.\\
+[\[Paper\]](https://dl.acm.org/doi/10.1145/3626772.3657979)
 
 
 - **CELI: Simple yet Effective Approach to Enhance Out-of-Domain Generalization of Cross-Encoders**\\
 Xinyu Zhang\*, **Minghan Li**\*, Jimmy Lin\\
-North American Chapter of the Association for Computational Linguistics (NAACL), 2024 (upcoming).\\
-Preprint abs/2302.06589, 2023.        \\
-[\[Paper\]](https://arxiv.org/abs/2302.06589)
+North American Chapter of the Association for Computational Linguistics (NAACL), 2024.\\
+[\[Paper\]](https://aclanthology.org/2024.naacl-short.16/)
 
 ## 2023
 - **How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval**\\
