@@ -1,28 +1,72 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Modern Academic Personal Website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+A stunning, modernized personal academic website built with Jekyll and enhanced with contemporary design patterns. Originally based on Academic Pages template, completely transformed with modern UX/UI principles.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## 🚀 Quick Start - Test the New Design!
 
-# Instructions
+### Prerequisites
+- Ruby 2.7+ and Bundler
+- Node.js 16+ and npm
+- Git
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+### Launch Local Development
 
-See more info at https://academicpages.github.io/
+1. **Simple one-command setup:**
+   ```bash
+   ./dev.sh
+   ```
+   
+2. **Or step-by-step:**
+   ```bash
+   bundle install
+   npm install
+   npm run build
+   bundle exec jekyll serve --livereload
+   ```
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+3. **View your site:**
+   Open http://localhost:4000 in your browser
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## 🎨 What's Been Transformed
+
+### 🌟 **Complete Visual Overhaul**
+- **Modern Hero Section**: Dynamic stats, professional presentation, call-to-action buttons
+- **Card-based Publications**: Beautiful publication cards with venue badges and abstracts  
+- **Enhanced Author Profile**: Redesigned sidebar with modern social icons
+- **Timeline News Section**: Visual timeline with categorized news badges
+- **Mobile-First Design**: Fully responsive with touch-optimized interactions
+
+### ⚡ **Performance & Tech Upgrades**
+- **Modern Build Process**: GitHub Actions deployment, asset optimization
+- **Enhanced Animations**: Smooth page transitions, hover effects, micro-interactions
+- **Improved Mobile UX**: Touch targets, responsive layouts, better navigation
+- **SEO Optimized**: Better meta tags, structured data, social sharing
+
+## 📱 Key Features
+
+### Enhanced Pages
+- **Homepage**: Professional hero section with statistics and clear CTAs
+- **Publications**: Modern card layout with color-coded venue badges
+- **Responsive Design**: Perfect on mobile, tablet, and desktop
+- **Interactive Elements**: Smooth animations and hover effects
+
+### Technical Improvements  
+- **Modern Color Palette**: Professional blue-gray theme with proper contrast
+- **Enhanced Typography**: Better readability with modern font stacks
+- **Performance Optimized**: Compressed assets, lazy loading, fast builds
+- **Accessibility**: WCAG compliant, keyboard navigation, screen reader friendly
+
+## 🛠️ Easy Customization
+
+### Quick Content Updates
+- **About Page**: Edit `_pages/about.md` 
+- **Publications**: Update `_pages/publications.md`
+- **Site Config**: Modify `_config.yml`
+
+### Design Customization
+- **Colors**: Edit `_sass/_variables.scss`
+- **Components**: Modify `_sass/_modern-components.scss` 
+- **Animations**: Enhance `_sass/_modern-animations.scss`
 
 # Changelog -- bugfixes and enhancements
 

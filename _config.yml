@@ -8,15 +8,18 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Minghan Li (李明翰)"
-title_separator          : "-"
+title_separator          : "•"
+subtitle                 : ""
 name                     : &name "Minghan Li"
-description              : &description "personal description"
+description              : &description "Member of Technical Staff at Cohere working on foundation models for embeddings and search. Ph.D. from University of Waterloo."
 url                      : https://alexlimh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexlimh/alexlimh.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "bio-photo.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo                     : "/images/site-logo.png" # path of logo image to display in the masthead
+masthead_title           : "Minghan Li" # overrides the default site title displayed in the masthead
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 200
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -82,8 +85,8 @@ analytics:
 author:
   name             : "Minghan Li"
   avatar           : "headshot.png"
-  bio              : "CS Ph.D. student at the University of Waterloo."
-  location         : "Waterloo, ON"
+  bio              : ""
+  location         : ""
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RuP501cAAAAJ&view_op=list_works&sortby=pubdate"
@@ -228,13 +231,17 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
+  - jemoji
   - jekyll-redirect-from
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
   - jemoji
 
 
@@ -271,5 +278,36 @@ tag_archive:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
   ignore:
     envs: development
+
+# Performance optimizations
+sass:
+  style: compressed
+  sourcemap: never
+
+# SEO and performance
+google_site_verification: # Add your Google site verification code
+bing_site_verification:   # Add your Bing site verification code
+
+# Social media optimization
+twitter:
+  card: summary_large_image
+  
+og_image: /images/site-logo.png
+
+# Additional meta tags
+head_scripts:
+  - /assets/js/modern-interactions.js
+
+# Performance hints
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true

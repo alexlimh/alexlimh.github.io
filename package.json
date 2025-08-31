@@ -1,33 +1,45 @@
 {
-  "name": "minimal-mistakes",
-  "version": "3.4.2",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "name": "alexlimh-personal-site",
+  "version": "2.0.0",
+  "description": "Modern academic personal website for Minghan Li",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/alexlimh/alexlimh.github.io.git"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "academic",
+    "personal-site",
+    "research"
   ],
-  "author": "Michael Rose",
+  "author": "Minghan Li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/alexlimh/alexlimh.github.io/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://alexlimh.github.io",
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 16.0.0",
+    "npm": ">= 7.0.0"
   },
   "devDependencies": {
-    "npm-run-all": "^1.7.0",
-    "onchange": "^2.2.0",
-    "uglify-js": "^2.6.1"
+    "npm-run-all": "^4.1.5",
+    "onchange": "^7.1.0",
+    "terser": "^5.19.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "postcss-cli": "^10.1.0",
+    "sass": "^1.63.6"
   },
   "scripts": {
-    "uglify": "uglifyjs assets/js/vendor/jquery/jquery-1.12.4.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
+    "build:js": "terser assets/js/plugins/*.js assets/js/_main.js -c -m -o assets/js/main.min.js",
+    "build:css": "sass assets/css/main.scss:assets/css/main.css --style=compressed --source-map",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
-    "build:js": "npm run uglify"
+    "watch:css": "onchange \"assets/css/**/*.scss\" \"_sass/**/*.scss\" -- npm run build:css",
+    "build": "npm-run-all build:*",
+    "watch": "npm-run-all --parallel watch:*",
+    "serve": "bundle exec jekyll serve --livereload",
+    "clean": "rm -rf _site .sass-cache .jekyll-cache .jekyll-metadata",
+    "install-deps": "bundle install && npm install"
   }
 }
