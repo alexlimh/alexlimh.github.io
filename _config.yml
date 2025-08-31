@@ -301,9 +301,6 @@ twitter:
   
 og_image: /images/site-logo.png
 
-# Additional meta tags
-head_scripts:
-  - /assets/js/modern-interactions.js
 
 # Performance hints
 defaults:
