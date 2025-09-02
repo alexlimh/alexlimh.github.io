@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a previous MTS at <strong>Cohere</strong>, working on foundation models for embeddings and search. 
+Previous MTS at <strong>Cohere</strong>, working on foundation models for embeddings and search. 
 I obtained my Ph.D. from the <strong>University of Waterloo</strong>, supervised by Professor 
 <a href="https://cs.uwaterloo.ca/~jimmylin/index.html">Jimmy Lin</a>. Before that, I received my M.Sc. in Computer Science 
 from <strong>University of Toronto</strong> under the supervision of <a href="https://danijar.com/">Danijar Hafner</a> and Professor 
